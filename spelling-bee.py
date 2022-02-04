@@ -1,5 +1,5 @@
 """
-Solves the New York Times Spelling Bee game
+Solves the New York Times Spelling Bee game.
 
 How to Play:
     Create words using letters from the hive.
